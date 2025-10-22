@@ -1,40 +1,74 @@
-Marwan Almoghrabi
-github.comIllustrative blockchain header for professional profile
-  
-Professional Summary
-I'm Marwan Almoghrabi, a dedicated Blockchain Developer and Entrepreneur based in Amman, Jordan. With a focus on decentralized technologies, I'm passionate about building innovative solutions that leverage blockchain for secure and efficient infrastructure. Currently balancing a full-time job, I'm bootstrapping my entrepreneurial venture while advancing my skills in programming and blockchain integration.
-My expertise spans blockchain node hosting, decentralized storage, staking, and DePIN networks. I'm committed to contributing to the blockchain ecosystem through technical involvement and community-driven projects.
-Key Skills
+<!-- Banner Image or Logo -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Blockchain_logo.svg/1920px-Blockchain_logo.svg.png" alt="Blockchain Banner" width="600"/>
+</p>
 
-Programming: JavaScript (fundamentals mastered; advancing to Node.js and Web3.js)
-Blockchain Technologies: Node hosting (Ethereum, Solana), decentralized storage (IPFS/Filecoin), staking/delegation, DePIN integrations (e.g., Nillion, Akash, Golem)
-Tools & Frameworks: Web3.js, Ethers.js, Docker for server management
-Recent Focus: Exploring privacy-focused computations and distributed computing for real-world applications
+<h1 align="center">Hi there 👋, I'm Marwan Almoghrabi</h1>
 
-Projects
-Blockchain Data Center (BDC)
-BDC is my core project—a specialized data center in Jordan providing services for blockchain networks. It aims to support decentralized ecosystems in the Middle East by offering reliable infrastructure for node hosting, storage, and staking. Key features include:
+<p align="center">
+  <strong>Blockchain Developer | Founder of a Blockchain Data Center Initiative in the Middle East</strong>
+</p>
 
-Secure node operations for various chains
-Decentralized data storage solutions
-Staking services for tokens like SOMI (personal investment of $750)
+---
 
-I'm open to collaborations and partnerships to scale BDC and integrate with emerging networks.
-github.comBlockchain applications and use cases infographic
-Recent Activities
+## 🚀 About Me
 
-Completed JavaScript fundamentals and preparing for advanced backend development.
-Actively engaging with communities on Discord (e.g., Filecoin, Nillion) for guidance on becoming a Storage Provider or Node Operator.
-Monitoring investments and exploring integrations with DePIN projects for BDC enhancement.
+I'm a passionate **Blockchain Developer** from Jordan 🇯🇴, currently working on launching a **Blockchain Data Center**—the first of its kind in the Middle East.
 
-GitHub Stats
+- 🧠 Deeply interested in decentralized infrastructure and high-performance computing
+- ⚙️ Currently running my first high-spec server as the foundation of the data center
+- 🌍 Focused on building transparent and efficient blockchain-based solutions
+- 💼 Founder of a blockchain infrastructure initiative based in Jordan
 
-Support My Work
-If you'd like to support my blockchain initiatives and BDC development, consider buying me a coffee!
+---
 
-Contact
+## 🏗️ Project: Blockchain Data Center – Jordan 🇯🇴
 
-Email: MarwanAlmoghrabi@icloud.com
-Phone: +962797032306
+This project aims to build a state-of-the-art **Blockchain Data Center** in Jordan, serving as a decentralized hub for Web3, crypto infrastructure, and blockchain-based applications.
 
-Let's connect for discussions, collaborations, or opportunities in the blockchain space!
+### 🌟 Vision:
+> "Empowering the Middle East with secure, scalable, and sustainable blockchain infrastructure."
+
+### 🔧 Current Status:
+
+- ✅ Phase 1: Single high-performance server deployed  
+- 🔜 Phase 2: Expand to multiple nodes and support multiple blockchain networks  
+- 🌐 Future: Become a hosting provider for blockchain startups and validator nodes
+
+---
+
+## 🛠️ Tech Stack
+
+Here are some of the key technologies and platforms I work with:
+
+- Blockchain Protocols: `Ethereum`, `Polygon`, `Solana`, `Cosmos`
+- Smart Contracts: `Solidity`, `Rust`
+- Node Infrastructure: `Geth`, `Hardhat`, `Docker`, `Ansible`
+- Dev Tools: `Git`, `Linux`, `Bash`, `Grafana`, `Prometheus`
+- Cloud & Server: `Bare Metal`, `Ubuntu Server`, `NGINX`
+
+---
+
+## 🖼️ Blockchain Visuals
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*XqB6cV9J7n6bB4LJr_tV3g.gif" alt="Blockchain GIF" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://101blockchains.com/wp-content/uploads/2020/04/what-is-blockchain-technology.png" alt="Blockchain Illustration" width="600"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: [github.com/your-username](https://github.com/your-username)
+- LinkedIn: [linkedin.com/in/marwan-almoghrabi](#)
+- Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+<p align="center">
+  Made with ❤️ by Marwan Almoghrabi
+</p>
