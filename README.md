@@ -46,7 +46,7 @@ I am the founder and lead of an ambitious project to establish the **first speci
 - **Goal:** To provide **blockchain hosting**, **node deployment**, and **Infrastructure-as-a-Service (IaaS)** for Web3 startups and developers.
 
 <div align="center">
-  <img src="assets/blockchain-datacenter.jpg" width="80%" alt="Blockchain Data Center"/>
+  <img src="assets/blockchain-datacenter.jpg" width="50%" alt="Blockchain Data Center"/>
 </div>
 
 ---
