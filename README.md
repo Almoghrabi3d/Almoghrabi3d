@@ -1,55 +1,56 @@
 <div align="center">
 
-<!-- Banner Image: reliable unsplash source (blockchain theme). Adjust height below -->
-<img src="https://source.unsplash.com/1200x300/?blockchain,network,nodes" width="100%" height="180" style="object-fit: cover; border-radius: 8px;" alt="Blockchain Banner"/>
+<!-- Banner Image -->
+<img src="https://cdn.pixabay.com/photo/2021/09/07/17/57/blockchain-6604905_1280.jpg" width="100%" alt="Blockchain Banner"/>
 
-<h1>👋 مرحبًا — Marwan Almoghrabi</h1>
-<h2><b>Blockchain Developer | Tech Entrepreneur</b></h2>
+<h1>👋 Welcome to My Profile</h1>
+<h2><b>Marwan Almoghrabi</b></h2>
+<h3>💠 Blockchain Developer | Tech Entrepreneur</h3>
 
-<p>Building decentralized infrastructure — from a high-spec server in Jordan to a regional Blockchain Data Center.</p>
+<p>Building the infrastructure for the decentralized future — one block at a time.</p>
 
 <!-- Social Links -->
 <p>
-  <a href="https://www.linkedin.com/in/marwan-almoghrabi" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/marwan-almoghrabi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/marwan_almoghrabi" target="_blank" rel="noopener">
+  <a href="https://twitter.com/marwan_almoghrabi" target="_blank">
     <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:marwan.almoghrabi@gmail.com" target="_blank" rel="noopener">
+  <a href="mailto:marwan.almoghrabi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
-<!-- Profile Views Counter -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=marwanalmoghrabi&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
-</p>
-
 </div>
 
 ---
 
-## 👨‍💻 نبذة عني
-أنا **Marwan Almoghrabi**، مطور بلوكشين ومؤسس مشروع **Blockchain Data Center** في الأردن.  
-أعمل على العقود الذكية، تشغيل العقد (nodes)، واستضافة بنية تحتية لامركزية (IaaS) مع اهتمام بتقنيات مثل **Cosmos** و**Akash Network** و**IBC**.
+## 👨‍💻 About Me
+
+I am a **Blockchain Developer** specializing in designing and building **decentralized applications (dApps)** and **infrastructure** for Web3 systems.  
+My focus is on **smart contracts**, **blockchain node operations**, and **decentralized hosting** using technologies like **Cosmos**, **Akash Network**, and **IBC Protocol**.  
+
+💡 **Belief:** Blockchain is reshaping how the world manages data, trust, and ownership — and I’m building part of that foundation.
 
 ---
 
-## 🚀 الرؤية — مركز بيانات بلوكشين في الشرق الأوسط
-- **المرحلة الحالية:** تشغيل سيرفر عالي المواصفات كنقطة انطلاق.  
-- **الهدف:** تقديم استضافة مخصصة للعقد، خدمات نشر العقد، وحلول IaaS لمطوري Web3 والشركات الناشئة في المنطقة.
+## 🚀 Vision: Blockchain Data Center in the Middle East
 
-<!-- Small banner for data-center / infra -->
+I am the founder and lead of an ambitious project to establish the **first specialized Blockchain Data Center** in **Jordan**, serving as a nucleus for blockchain infrastructure in the Middle East.  
+
+- **Current Stage:** One **high-spec server** is already operational — the first step toward a fully decentralized data center.  
+- **Goal:** To offer **blockchain hosting**, **node deployment**, and **Infrastructure-as-a-Service (IaaS)** for Web3 startups and developers.
+
 <div align="center">
-  <img src="https://source.unsplash.com/1200x300/?data-center,server,infrastructure" width="100%" height="140" style="object-fit: cover; border-radius: 8px;" alt="Data Center Banner"/>
+  <img src="https://cdn.pixabay.com/photo/2023/07/27/04/53/data-center-8154102_1280.jpg" width="80%" alt="Blockchain Data Center"/>
 </div>
 
 ---
 
-## 🛠️ المهارات والتقنيات
+## 🛠️ Skills & Technologies
 
-### لغات وأدوات
+### 🧩 Programming Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -58,7 +59,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### أطر ومكتبات
+### ⚙️ Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/Hardhat-F7E018?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
   <img src="https://img.shields.io/badge/Ethers.js-2C3E50?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/>
@@ -67,43 +68,41 @@
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
-### مفاهيم وبنية تحتية
+### 🌐 Concepts & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Smart%20Contracts-000000?style=for-the-badge" alt="Smart Contracts"/>
   <img src="https://img.shields.io/badge/DeFi-2F80ED?style=for-the-badge" alt="DeFi"/>
   <img src="https://img.shields.io/badge/NFTs-8E2DE2?style=for-the-badge" alt="NFTs"/>
+  <img src="https://img.shields.io/badge/Layer%202%20Solutions-FF6F00?style=for-the-badge" alt="Layer 2 Solutions"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ---
 
-## 🏆 الجوائز (GitHub Trophies)
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marwanalmoghrabi&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marwanalmoghrabi&show_icons=true&theme=dark&count_private=true&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanalmoghrabi&layout=compact&theme=dark&hide_border=true" height="160" alt="Top Languages"/>
 </div>
 
 ---
 
-## 📊 إحصاءات GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marwanalmoghrabi&show_icons=true&theme=dark&count_private=true&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanalmoghrabi&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages"/>
-</div>
+## 📫 Get in Touch
 
----
-
-## 📫 تواصل معي
 <p align="center">
-  💬 مهتم بالتعاون أو نقاش مشاريع البلوكشين؟ تواصل معي:  
+  💬 Always open to collaboration, innovation, and discussions about the future of blockchain.  
   <br/>
-  <a href="mailto:marwan.almoghrabi@gmail.com"><strong>📧 marwan.almoghrabi@gmail.com</strong></a>
+  <a href="mailto:marwan.almoghrabi@gmail.com">
+    <strong>📧 marwan.almoghrabi@gmail.com</strong>
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://source.unsplash.com/1200x300/?blockchain,technology,graph" width="100%" height="160" style="object-fit: cover; border-radius: 8px;" alt="Blockchain Footer Banner"/>
+  <img src="https://cdn.pixabay.com/photo/2023/01/28/21/48/blockchain-7751079_1280.jpg" width="70%" alt="Blockchain Vision"/>
   <br/><br/>
   <b>“Empowering the Middle East through Decentralized Infrastructure.”</b>
 </div>
