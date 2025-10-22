@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Blockchain_logo.svg/800px-Blockchain_logo.svg.png](https://user-images.githubusercontent.com/45159366/123559327-2ac76c00-d750-11eb-8507-6f2a81724412.png)](https://previews.123rf.com/images/limbi007/limbi0071706/limbi007170600470/81005773-dlock-button-with-electronic-schematicon-and-banner-with-text-blockchain-on-the-blue-background-eps.jpg)" alt="Blockchain Banner" width="400"/>
+  <img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Blockchain_logo.svg/800px-Blockchain_logo.svg.png](https://user-images.githubusercontent.com/45159366/123559327-2ac76c00-d750-11eb-8507-6f2a81724412.png)]([https://previews.123rf.com/images/limbi007/limbi0071706/limbi007170600470/81005773-dlock-button-with-electronic-schematicon-and-banner-with-text-blockchain-on-the-blue-background-eps.jpg](https://user-images.githubusercontent.com/45159366/123559327-2ac76c00-d750-11eb-8507-6f2a81724412.png))" alt="Blockchain Banner" width="400"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Marwan Almoghrabi</h1>
