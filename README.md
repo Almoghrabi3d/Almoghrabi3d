@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Image -->
-<img src="https://cdn.pixabay.com/photo/2021/09/07/17/57/blockchain-6604905_1280.jpg" width="100%" alt="Blockchain Banner"/>
+<img src="https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?auto=format&fit=crop&w=1200&q=80" width="100%" alt="Blockchain Banner"/>
 
 <h1>👋 Welcome to My Profile</h1>
 <h2><b>Marwan Almoghrabi</b></h2>
@@ -22,28 +22,31 @@
   </a>
 </p>
 
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=marwanalmoghrabi&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Blockchain Developer** specializing in designing and building **decentralized applications (dApps)** and **infrastructure** for Web3 systems.  
-My focus is on **smart contracts**, **blockchain node operations**, and **decentralized hosting** using technologies like **Cosmos**, **Akash Network**, and **IBC Protocol**.  
+I am a **Blockchain Developer** specializing in designing and building **decentralized applications (dApps)** and **blockchain infrastructure**.  
+My focus includes **smart contracts**, **node operations**, and **decentralized hosting** using technologies like **Cosmos**, **Akash Network**, and **IBC Protocol**.  
 
-💡 **Belief:** Blockchain is reshaping how the world manages data, trust, and ownership — and I’m building part of that foundation.
+💡 **Belief:** Blockchain is revolutionizing how we handle data, trust, and ownership — and I’m helping build that foundation.
 
 ---
 
 ## 🚀 Vision: Blockchain Data Center in the Middle East
 
-I am the founder and lead of an ambitious project to establish the **first specialized Blockchain Data Center** in **Jordan**, serving as a nucleus for blockchain infrastructure in the Middle East.  
+I am the founder and lead of an ambitious project to establish the **first specialized Blockchain Data Center** in **Jordan**, serving as a hub for blockchain infrastructure across the Middle East.  
 
-- **Current Stage:** One **high-spec server** is already operational — the first step toward a fully decentralized data center.  
-- **Goal:** To offer **blockchain hosting**, **node deployment**, and **Infrastructure-as-a-Service (IaaS)** for Web3 startups and developers.
+- **Current Stage:** One **high-performance server** is already up and running — the first step in our decentralized data center journey.  
+- **Goal:** To provide **blockchain hosting**, **node deployment**, and **Infrastructure-as-a-Service (IaaS)** for Web3 startups and developers.
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2023/07/27/04/53/data-center-8154102_1280.jpg" width="80%" alt="Blockchain Data Center"/>
+  <img src="https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?auto=format&fit=crop&w=1000&q=80" width="80%" alt="Blockchain Data Center"/>
 </div>
 
 ---
@@ -80,6 +83,14 @@ I am the founder and lead of an ambitious project to establish the **first speci
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marwanalmoghrabi&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -102,7 +113,7 @@ I am the founder and lead of an ambitious project to establish the **first speci
 ---
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2023/01/28/21/48/blockchain-7751079_1280.jpg" width="70%" alt="Blockchain Vision"/>
+  <img src="https://images.unsplash.com/photo-1622202236715-b0bff6e8cf00?auto=format&fit=crop&w=1000&q=80" width="70%" alt="Blockchain Vision"/>
   <br/><br/>
   <b>“Empowering the Middle East through Decentralized Infrastructure.”</b>
 </div>
