@@ -3,21 +3,8 @@
 <!-- Banner Image -->
 
 <h1>Welcome to my profile 👋</h1>
-
-<h1>
-<b>Marwan Almoghrabi</b>
-</h1>
-
-<h3>
-Blockchain Developer | Tech Entrepreneur
-</h3>
-
-<p>
-Passionate about building the infrastructure for the next decentralized world.
-</p>
-
+<!-- ... existing code ... -->
 <!-- Social Links -->
-
 <p>
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_USERNAME_HERE" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
@@ -30,26 +17,14 @@ Passionate about building the infrastructure for the next decentralized world.
 </a>
 </p>
 </div>
-
-👨‍💻 About Me
-
-I am a Blockchain Developer specializing in designing and building decentralized applications (dApps) and their supporting infrastructure. I have experience in smart contract development, network security, and integrating Web2 technologies with the Web3 world.
-
+<!-- ... existing code ... -->
 My firm belief in blockchain's potential to revolutionize how we handle data and ownership drives me to contribute to building this future.
 
 🚀 My Vision: A Blockchain Data Center in the Middle East
 
 I am the founder and lead of an ambitious project to establish the first specialized Blockchain Data Center in Jordan, serving as a nucleus for a wider network in the Middle East.
 
-Current Stage:
-We have begun our journey by setting up and operating one High-Spec Server, which is the first step in building a robust and reliable infrastructure.
-
-The Goal:
-To provide hosting solutions, nodes, and Infrastructure as a Service (IaaS) specifically tailored to meet the demands of blockchain networks, developers, and startups in the region.
-
-🛠️ Skills & Technologies
-
-I am familiar with a wide range of technologies in the blockchain and programming space.
+<!-- ... existing code ... -->
 
 Programming Languages & Tools:
 
