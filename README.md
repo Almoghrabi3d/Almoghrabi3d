@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Image -->
-<img src="https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?auto=format&fit=crop&w=1200&q=80" width="100%" alt="Blockchain Banner"/>
+<img src="https://images.unsplash.com/photo-1620121692029-d088224ddc74?auto=format&fit=crop&w=1200&q=80" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Blockchain Network Banner"/>
 
 <h1>👋 Welcome to My Profile</h1>
 <h2><b>Marwan Almoghrabi</b></h2>
@@ -31,22 +31,22 @@
 
 ## 👨‍💻 About Me
 
-I am a **Blockchain Developer** specializing in designing and building **decentralized applications (dApps)** and **blockchain infrastructure**.  
-My focus includes **smart contracts**, **node operations**, and **decentralized hosting** using technologies like **Cosmos**, **Akash Network**, and **IBC Protocol**.  
+I am a **Blockchain Developer** passionate about designing and deploying **decentralized applications (dApps)** and **blockchain infrastructure**.  
+My work focuses on **smart contracts**, **node deployment**, and **decentralized hosting** using **Cosmos**, **Akash Network**, and **IBC Protocol**.  
 
-💡 **Belief:** Blockchain is revolutionizing how we handle data, trust, and ownership — and I’m helping build that foundation.
+💡 **Vision:** To build a strong blockchain foundation that empowers transparency, efficiency, and decentralization across the region.
 
 ---
 
 ## 🚀 Vision: Blockchain Data Center in the Middle East
 
-I am the founder and lead of an ambitious project to establish the **first specialized Blockchain Data Center** in **Jordan**, serving as a hub for blockchain infrastructure across the Middle East.  
+Founder of an ambitious initiative to establish the **first specialized Blockchain Data Center** in **Jordan**, aiming to become the regional hub for blockchain infrastructure in the Middle East.  
 
-- **Current Stage:** One **high-performance server** is already up and running — the first step in our decentralized data center journey.  
-- **Goal:** To provide **blockchain hosting**, **node deployment**, and **Infrastructure-as-a-Service (IaaS)** for Web3 startups and developers.
+- **Current Stage:** Operating a **high-performance server**, the cornerstone of our future decentralized infrastructure.  
+- **Goal:** To deliver **blockchain hosting**, **node services**, and **IaaS** solutions optimized for Web3 builders and startups.
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?auto=format&fit=crop&w=1000&q=80" width="80%" alt="Blockchain Data Center"/>
+  <img src="https://images.unsplash.com/photo-1620727756170-6c49863c7b52?auto=format&fit=crop&w=1000&q=80" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Blockchain Data Center Banner"/>
 </div>
 
 ---
@@ -67,4 +67,53 @@ I am the founder and lead of an ambitious project to establish the **first speci
   <img src="https://img.shields.io/badge/Hardhat-F7E018?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
   <img src="https://img.shields.io/badge/Ethers.js-2C3E50?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
-  <img src="https://img.shields.io/badge/React
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</p>
+
+### 🌐 Concepts & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Smart%20Contracts-000000?style=for-the-badge" alt="Smart Contracts"/>
+  <img src="https://img.shields.io/badge/DeFi-2F80ED?style=for-the-badge" alt="DeFi"/>
+  <img src="https://img.shields.io/badge/NFTs-8E2DE2?style=for-the-badge" alt="NFTs"/>
+  <img src="https://img.shields.io/badge/Layer%202%20Solutions-FF6F00?style=for-the-badge" alt="Layer 2 Solutions"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marwanalmoghrabi&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marwanalmoghrabi&show_icons=true&theme=dark&count_private=true&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanalmoghrabi&layout=compact&theme=dark&hide_border=true" height="160" alt="Top Languages"/>
+</div>
+
+---
+
+## 📫 Get in Touch
+
+<p align="center">
+  💬 Always open to collaboration, innovation, and discussions about the future of blockchain.  
+  <br/>
+  <a href="mailto:marwan.almoghrabi@gmail.com">
+    <strong>📧 marwan.almoghrabi@gmail.com</strong>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1643890043856-49f13c6e2d06?auto=format&fit=crop&w=1000&q=80" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Blockchain Vision"/>
+  <br/><br/>
+  <b>“Empowering the Middle East through Decentralized Infrastructure.”</b>
+</div>
