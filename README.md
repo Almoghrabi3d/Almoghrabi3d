@@ -94,8 +94,8 @@ I am the founder and lead of an ambitious project to establish the **first speci
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marwanalmoghrabi&show_icons=true&theme=dark&count_private=true&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanalmoghrabi&layout=compact&theme=dark&hide_border=true" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Almoghrabi3d&show_icons=true&theme=dark&count_private=true&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almoghrabi3d&layout=compact&theme=dark&hide_border=true" height="160" alt="Top Languages"/>
 </div>
 
 ---
