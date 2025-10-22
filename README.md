@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Image -->
-<img src="assets/blockchain-banner.jpg" width="100%" alt="Blockchain Banner"/>
+<img src="assets/blockchain-banner.jpg" width="50%" alt="Blockchain Banner"/>
 
 <h1>👋 Welcome to My Profile</h1>
 <h2><b>Marwan Almoghrabi</b></h2>
