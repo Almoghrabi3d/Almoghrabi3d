@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Image -->
-<img src="https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?auto=format&fit=crop&w=1200&q=80" width="100%" alt="Blockchain Banner"/>
+<img src="assets/blockchain-banner.jpg" width="100%" alt="Blockchain Banner"/>
 
 <h1>👋 Welcome to My Profile</h1>
 <h2><b>Marwan Almoghrabi</b></h2>
@@ -46,7 +46,7 @@ I am the founder and lead of an ambitious project to establish the **first speci
 - **Goal:** To provide **blockchain hosting**, **node deployment**, and **Infrastructure-as-a-Service (IaaS)** for Web3 startups and developers.
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?auto=format&fit=crop&w=1000&q=80" width="80%" alt="Blockchain Data Center"/>
+  <img src="assets/blockchain-datacenter.jpg" width="80%" alt="Blockchain Data Center"/>
 </div>
 
 ---
@@ -113,7 +113,7 @@ I am the founder and lead of an ambitious project to establish the **first speci
 ---
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1622202236715-b0bff6e8cf00?auto=format&fit=crop&w=1000&q=80" width="70%" alt="Blockchain Vision"/>
+  <img src="assets/blockchain-vision.jpg" width="70%" alt="Blockchain Vision"/>
   <br/><br/>
   <b>“Empowering the Middle East through Decentralized Infrastructure.”</b>
 </div>
