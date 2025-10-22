@@ -14,10 +14,10 @@
   <a href="https://www.linkedin.com/in/marwan-almoghrabi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/marwan_almoghrabi" target="_blank">
+  <a href="https://x.com/Almoghrabi3d" target="_blank">
     <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:marwan.MarwanAlmoghrabi@icloud.com" target="_blank">
+  <a href="mailto:MarwanAlmoghrabi@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
