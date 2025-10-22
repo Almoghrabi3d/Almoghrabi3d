@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Blockchain.png" alt="Blockchain Banner" width="600"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Blockchain_logo.svg/800px-Blockchain_logo.svg.png" alt="Blockchain Banner" width="400"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Marwan Almoghrabi</h1>
@@ -15,46 +15,69 @@
 
 I'm a passionate **Blockchain Developer** from Jordan 🇯🇴, currently working on launching a **Blockchain Data Center** — the first of its kind in the Middle East.
 
-- 🔧 Currently running my first high-spec server as the foundation of the data center  
+- 🔧 Running my first high-spec server as the foundation of the center  
 - 🌱 Focused on decentralization, infrastructure, and Web3 technologies  
 - 📍 Based in Jordan, serving the MENA region with blockchain infrastructure  
-- 💬 Always open to collaboration in blockchain, infrastructure, or Web3 research
+- 💬 Open to collaboration in blockchain, infrastructure, or Web3 projects
 
 ---
 
 ## 🏗️ Project: Blockchain Data Center – Jordan 🇯🇴
 
-This is an initiative to build a high-performance, decentralized **Blockchain Data Center** in Jordan. It aims to provide secure and scalable infrastructure for blockchain protocols, node hosting, and validator services in the MENA region.
+This project aims to create a secure, scalable, and energy-efficient blockchain infrastructure hub in Jordan, serving the Middle East and beyond.
 
 ### 🌍 Vision:
-> "Empowering the Middle East with transparent, secure, and energy-efficient blockchain infrastructure."
+> "Empowering the Middle East with transparent, decentralized infrastructure."
 
-### 🧱 Current Status:
-- ✅ Phase 1: Initial high-performance server deployed
-- 🔄 Phase 2: Infrastructure scaling with additional nodes
-- 🚀 Phase 3: Hosting services for validators, Web3 startups, and blockchain networks
+### 📈 Current Status:
+
+- ✅ Phase 1: One high-performance server deployed  
+- 🏗️ Phase 2: Expanding to multiple nodes  
+- 🌐 Phase 3: Offering hosting for Web3 apps, validator nodes & startups
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Blockchain Protocols**: Ethereum, Polygon, Solana, Cosmos  
+- **Protocols**: Ethereum, Polygon, Solana, Cosmos  
 - **Smart Contracts**: Solidity, Rust  
-- **Infrastructure**: Geth, Hardhat, Docker, Ansible, Prometheus, Grafana  
-- **Tools & OS**: Linux (Ubuntu Server), Git, Bash, NGINX  
-- **Server Hardware**: High-spec bare metal machines, scalable architecture
+- **Infrastructure Tools**: Docker, Geth, Hardhat, Ansible  
+- **Monitoring**: Prometheus, Grafana  
+- **OS**: Linux (Ubuntu Server)  
+- **Web**: NGINX, Git, Bash
 
 ---
 
-## 🖼️ Visuals & Concepts
+## 🖼️ Visuals
 
-### 🌐 Blockchain Network
+### 🔗 Blockchain Diagram
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bitcoin_Block_Data.png/800px-Bitcoin_Block_Data.png" alt="Blockchain Diagram" width="500"/>
 </p>
 
-### 🧠 How Blockchain Works
+### 🧠 Conceptual Flow of Blockchain
 
 <p align="center">
-  <img src="https://www.investopedia.com/thmb/yKcCqkAkF2hf-8QLZkW3vq70wjs=/1500x0/filters:no_upscale():max_bytes(1
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Blockchain_illustration.png/640px-Blockchain_illustration.png" alt="Blockchain Illustration" width="500"/>
+</p>
+
+### 🏢 Data Center Visual
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Data_center_in_Frankfurt.jpg/640px-Data_center_in_Frankfurt.jpg" alt="Data Center" width="500"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 GitHub: [github.com/your-username](https://github.com/your-username)
+- 💼 LinkedIn: [linkedin.com/in/marwan-almoghrabi](#)
+- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+<p align="center">
+  Made with ❤️ in Jordan by Marwan Almoghrabi
+</p>
