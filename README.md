@@ -1,49 +1,21 @@
-Marwan Almoghrabi
-<img src="https://via.placeholder.com/1200x400?text=Blockchain+Data+Center+Header" alt="Marwan Almoghrabi GitHub README header image">
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&#x26;style=for-the-badge&#x26;logo=twitter&#x26;logoColor=white" height="25"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&#x26;style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" height="25"> <img src="https://img.shields.io/badge/email-%23D14836.svg?&#x26;style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" height="25">
-About Me
-Hello! I'm Marwan Almoghrabi, a 41-year-old Jordanian Blockchain Developer based in Jordan. I'm passionate about blockchain technology and decentralized systems. With a background in server management and programming, I'm currently building my own project called Blockchain Data Center (BDC), a data center dedicated to providing diverse services for blockchain networks, such as node hosting, decentralized storage, staking, and infrastructure support.
-I'm employed full-time with a monthly salary of approximately $900, balancing my commitments of over $600 while pursuing this entrepreneurial venture. I plan to transition fully to BDC once it grows. Recently, I've been learning JavaScript and exploring projects like Filecoin, Nillion, and other DePIN networks to integrate into BDC.
-My goal is to leverage my high-performance server to contribute to the blockchain ecosystem, foster partnerships, and achieve financial independence through innovative tech solutions.
-Blockchain Data Center (BDC)
-BDC is my personal project aimed at creating a reliable infrastructure for blockchain services in the Middle East, starting from Jordan. The center uses advanced hardware to offer:
-
-Node hosting for networks like Ethereum, Solana, and emerging ones like Nillion.
-Decentralized storage via IPFS/Filecoin.
-Staking and delegation services.
-Potential integrations with DePIN projects for distributed computing and privacy-focused computations.
-
-I'm open to collaborations, partnerships, or contributions to expand BDC. If you're interested in blockchain infrastructure, feel free to reach out!
-Server Specifications
-My setup is powered by a robust server housed in a data center (DAMAMAX, Jordan), with monthly costs around $250. Here's the specs:
-
-Model: HPE ProLiant DL380 Gen11
-CPU: Intel Xeon Gold 6430 (32-Core)
-RAM: 128GB (4 x 32GB) DDR5 PC5-4800B RDIMM
-Storage: 4x HPE 3.84TB NVMe SSD
-Controller: HPE MEGA RAID MR416i-o with cache battery
-Network: Dual Port 10GB Base-T
-Power Supply: 2x HPE Titanium 1800W
-Fans: 6x High Performance Fans
-OS: Windows Server 2025
-Internet Speed: 1GB
-
-This server is the foundation of BDC and is ready for blockchain experiments and services.
-Recent Interests and Learning
-
-Completed basics of JavaScript and planning to dive into Node.js, Web3.js, and Solidity.
-Exploring projects like Filecoin for decentralized storage, Nillion for blind computation, and similar DePIN networks (e.g., Akash, Golem, Render).
-Invested $750 in Somnia (SOMI) and monitoring its potential for staking/integration in BDC.
-Participating in communities on Discord (e.g., Filecoin, Nillion) for guidance on becoming a Storage Provider or Node Operator.
-
-GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=MarwanAlmoghrabi&#x26;show_icons=true" alt="GitHub Stats">
-Contact Me
-Feel free to connect or collaborate:
-
-Email: MarwanAlmoghrabi@icloud.com
-Phone: +962797032306
-
-If you'd like to support my journey or BDC, consider reaching out for partnerships or contributions!
-
-  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<h2>Check My Nuxt Starter Kit</h2>
+  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
+      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
+    </a>
+<h2>Latest Blog Posts</h2>
+  <ul>
+  <li><a href=https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea target="_blank" rel="noreferrer nofollow">Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey</a></li><li><a href=https://mokkapps.de/blog/connecting-mysql-database-nuxt-drizzle-orm target="_blank" rel="noreferrer nofollow">Connecting a MySQL Database in Nuxt with Drizzle ORM</a></li><li><a href=https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build target="_blank" rel="noreferrer nofollow">Nuxt Tip: Accessing Pinia Store in Production Build</a></li><li><a href=https://mokkapps.de/blog/vercel-acquires-nuxtlabs target="_blank" rel="noreferrer nofollow">Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt</a></li><li><a href=https://mokkapps.de/blog/implementing-esr-nuxt target="_blank" rel="noreferrer nofollow">Implementing Edge-Side Rendering (ESR) in Nuxt 3+ for Enhanced Performance</a></li>
+  </ul>
+<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
+<h2>Latest Newsletter Issues</h2>
+  <ul>
+    <li><a href=https://weekly-vue.news/issues/v2/184 target="_blank" rel="noreferrer nofollow">Weekly Vue News #220 - Mastering Vue Reactivity, Hydration, and Smarter State with Pinia</a></li><li><a href=https://weekly-vue.news/issues/v2/183 target="_blank" rel="noreferrer nofollow">Weekly Vue News #219 - Nuxt Deep Dive: Passkeys, Environment Configs & the Great Next.js Showdown</a></li><li><a href=https://weekly-vue.news/issues/v2/182 target="_blank" rel="noreferrer nofollow">Weekly Vue News #218 - Nuxt Environments, Package Deduping & Vite News You Can’t Miss</a></li><li><a href=https://weekly-vue.news/issues/v2/181 target="_blank" rel="noreferrer nofollow">Weekly Vue News #217 - Nuxt UI v4, Real-Time Communication, and Smart Vue Components</a></li><li><a href=https://weekly-vue.news/issues/v2/180 target="_blank" rel="noreferrer nofollow">Weekly Vue News #216 - Mastering Nuxt Redirects, Migrating Vue 2 to 3, and Microfrontends with Module Federation</a></li>
+  </ul>
+<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
+  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
