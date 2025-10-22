@@ -106,7 +106,7 @@ I am the founder and lead of an ambitious project to establish the **first speci
   💬 Always open to collaboration, innovation, and discussions about the future of blockchain.  
   <br/>
   <a href="mailto:marwan.almoghrabi@gmail.com">
-    <strong>📧 marwan.almoghrabi@gmail.com</strong>
+    <strong>📧 MarwanAlmoghrabi@icloud.com</strong>
   </a>
 </p>
 
