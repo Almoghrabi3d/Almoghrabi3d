@@ -17,7 +17,7 @@
   <a href="https://twitter.com/marwan_almoghrabi" target="_blank">
     <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:marwan.almoghrabi@gmail.com" target="_blank">
+  <a href="mailto:marwan.MarwanAlmoghrabi@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
